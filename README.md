@@ -2,7 +2,7 @@
 Downloads for Tor.
 <br>
 [![Game Version](https://img.shields.io/badge/Game%20Version-REV01-darkgreen?style=flat-square)](https://github.com/TDRBot/tor/releases/)
-
+<hr>
 *Long ago (actually not that long ago), a world with very unstable environments, suddenly had a bloom of lifeforms popping up.*
 
 *Two of these, became intelligent, and started civilization in its vast biomes.*
@@ -12,10 +12,10 @@ Downloads for Tor.
 *You, are one of these lifeforms.*
 
 *Try to get to a safe place before this happens. Though, expect to die. A lot.*
-
+<hr>
 Tor, a survival-RPG hybrid. Taking place on a very diverse planet, you need to craft, scavenge, and more importantly, defend yourself to stay alive.
 
-
+<hr>
 
 The download page for the demo of a work-in-progress survival-RPG game called 'Tor,' the finished demo will only include the first five phases or 'layers' to play on. REV01 is mostly a survival and environment test.
 
