@@ -23,12 +23,14 @@ The download page for the demo of a work-in-progress survival-RPG game called 'T
 <br>
 <br>
 Controls
-* Arrow Keys - Move
-* Z/Enter/Space - Accept
-* X/Escape - Cancel
-* D - Crafting Menu
-* F12 - Restart
-* Alt + Enter - Fullscreen
+<ul>
+  <li>Arrow Keys - Move</li>
+  <li>Z/Enter/Space - Accept</li>
+  <li>X/Escape - Cancel</li>
+  <li>D - Crafting Menu</li>
+  <li>F12 - Restart</li>
+  <li>Alt + Enter - Fullscreen</li>
+</ul>
 <br>
 <br>
 Please report any bugs to me that you find.
