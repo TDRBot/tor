@@ -1,6 +1,6 @@
 # tor
 Downloads for Tor.
-[![Game Version](https://img.shields.io/badge/REV01-darkgreen?style=flat-square)](https://github.com/TDRBot/tor/releases/)
+[![Game Version](https://img.shields.io/badge/Game%20Version-REV01-darkgreen?style=flat-square)](https://github.com/TDRBot/tor/releases/)
 
 *Long ago (actually not that long ago), a world with very unstable environments, suddenly had a bloom of lifeforms popping up.*
 
