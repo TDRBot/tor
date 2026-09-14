@@ -7,7 +7,7 @@ Downloads for Tor.
 
 *Long ago (actually not that long ago), a world with very unstable environments, suddenly had a bloom of lifeforms popping up.*
 
-*Two of these, became intelligent, and started civilization in its vast biomes.*
+*Three of these, became intelligent, and started civilization in its vast biomes.*
 
 *Over time, the populations of these life forms slowly began to get lower, and lower. The conditions of the world they live in can't sustain life for long.*
 
