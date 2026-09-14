@@ -1,4 +1,5 @@
 # tor
+![The cover art for Tor.](https://github.com/user-attachments/assets/fa29fba4-0af5-4e5c-bcd5-a64f79f8530d)
 Downloads for Tor.
 <br>
 [![Game Version](https://img.shields.io/badge/Game%20Version-REV01-darkgreen?style=flat-square)](https://github.com/TDRBot/tor/releases/)
