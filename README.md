@@ -17,8 +17,8 @@ Downloads for Tor.
 <hr>
 Tor, a survival-RPG hybrid. Taking place on a very diverse planet, you need to craft, scavenge, and more importantly, defend yourself to stay alive.
 
+Currently as of now, no source code of the game is provided in this repository. This page currently exists to offer direct downloads for the game. However, none of the game data in the downloadable builds are encrypted.
 <hr>
-
 The download page for the demo of a work-in-progress survival-RPG game called 'Tor,' the finished demo will only include the first five phases or 'layers' to play on. REV01 is mostly a survival and environment test.
 
 Controls
